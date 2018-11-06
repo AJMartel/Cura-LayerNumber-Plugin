@@ -1,5 +1,5 @@
 # Cura-LayerNumber-Plugin
-Print current layer number on the 3D printer display
+Print current layer number on the 3D printer display.
 
 This is a plugin for [Ultimaker Cura](https://ultimaker.com/en/products/ultimaker-cura-software), which does a bit of post processing after the file is sliced, and inserts a **M117** GCode into the file, so that your printer can display the currently printing layer number on the connected LCD display.
 
